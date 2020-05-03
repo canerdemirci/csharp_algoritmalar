@@ -1,4 +1,14 @@
-﻿using System;
+/*
+** Caesar Cipher
+** -------------------------------------------
+** Sezar Şifrelemesi
+** Şifrelenecek metin karakterleri alfabedeki konumlarına göre,
+** verilen anahtar tam sayı değeri kadar ileri kaydırılır.
+** Şifre çözülürken de geri kaydırılır.
+**
+*/
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 
