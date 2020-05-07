@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace SoloLearn
 {
-	class Program
+	class Program_VectorDistance
 	{
 		struct Vector2
         {
