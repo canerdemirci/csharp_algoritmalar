@@ -14,7 +14,7 @@ using System.Collections.Generic;
 
 namespace csharpdenemeler
 {
-    class Program
+    class Program_CaesarCipher
     {
         static void Main(string[] args)
         {
