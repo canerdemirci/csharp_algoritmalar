@@ -27,9 +27,8 @@ class Program_Lab_Numbers
         static bool isLabNumber(int n)
         {
             for (var i=2; i<n; i++)
-                if (isPrime(i) && n % i == 0)
-                    if (n % (i * i) == 0)
-                        return true;
+                if (isPrime(i) && n % i == 0 && n % (i * i) == 0)
+                    return true;
             
             return false;
         }
