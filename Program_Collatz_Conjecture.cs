@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SoloLearn
 {
-    class Program
+    class Program_Collatz_Conjecture
     {
         static void Main(string[] args)
         {
