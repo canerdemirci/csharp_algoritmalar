@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace SoloLearn
 {
-	class Program
+	class Program_Gapful
 	{
 		static void Main(string[] args)
         {
