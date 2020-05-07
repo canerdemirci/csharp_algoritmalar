@@ -1,3 +1,13 @@
+/*
+** Program bir doğal sayı alır
+** Sayı çift ise yarıya böler
+** Tek ise 3 ile çarpar ve 1 ekler
+** Bu işlemleri son 4, 2, 1 sonuçlarına 
+** ulaşıncaya kadar devam ettirir.
+** 1 den sonra işlemler devam etmez çünkü
+** hep 4, 2, 1 diye gidcektir.
+*/
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
