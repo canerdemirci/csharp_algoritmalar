@@ -12,6 +12,9 @@ namespace SoloLearn
 {
 	public static class LinearEquation
     {
+	/*
+	** Bu fonksiyon bilinmeyenin karakterini (adını) ve değerini döndürür
+	*/
         public static (char, double) Do(string expression)
         {
             // Bilinmeyenin değeri
