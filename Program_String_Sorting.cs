@@ -12,7 +12,7 @@ namespace Caner
 
         static void Main(string[] args)
         {
-            string inputStr = Console.ReadLine();
+            string inputStr = Console.ReadLine().ToLower();
             inputStr = SortString(inputStr);
             Console.WriteLine(inputStr);
         }
